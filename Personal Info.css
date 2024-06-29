@@ -1,0 +1,25 @@
+/* src/components/PersonalInfo.css */
+.personal-info {
+  text-align: center;
+  padding: 20px;
+  background-color: #f4f4f4;
+  border-radius: 10px;
+  margin: 20px auto;
+  width: 80%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.personal-info h1 {
+  font-size: 2.5em;
+  color: #333;
+}
+
+.personal-info p {
+  font-size: 1.2em;
+  color: #666;
+}
+
+.personal-info a {
+  color: #0073b1;
+  text-decoration: none;
+}
